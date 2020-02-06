@@ -1,3 +1,4 @@
+HELLO WORLD! This is DINGDONG69.
 # GitHub Platform Walkthrough
 
 *This repository is for explaination purposes only and may be redistributed with permission*
